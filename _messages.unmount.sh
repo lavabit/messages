@@ -50,3 +50,5 @@ sudo umount $BASE/trec/_10
 sudo umount $BASE/trec/_11
 sudo umount $BASE/trec/_12
 sudo umount $BASE/trec/_13
+
+sudo umount $BASE/xml/_1

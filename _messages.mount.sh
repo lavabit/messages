@@ -51,5 +51,6 @@ sudo archivemount trec.11.tar.bz2 $BASE/trec/_11 -o readonly -o allow_other -o n
 sudo archivemount trec.12.tar.bz2 $BASE/trec/_12 -o readonly -o allow_other -o nonempty -o uid=$USERID -o gid=$GROUPID
 sudo archivemount trec.13.tar.bz2 $BASE/trec/_13 -o readonly -o allow_other -o nonempty -o uid=$USERID -o gid=$GROUPID
 
+sudo archivemount xml.1.tar.bz2 $BASE/xml/_1 -o readonly -o allow_other -o nonempty -o uid=$USERID -o gid=$GROUPID
 
 
